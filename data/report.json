@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "client": "LeadWalnut",
+    "reportMonth": "2026-10",
+    "reportDate": "November 11, 2026",
+    "reportTitle": "Backlink Performance Summary Report",
+    "reportSubtitle": "Source: GSC",
+    "baselineLabel": "Aug 2026 (Baseline)",
+    "currentLabel": "October 2026",
+    "currentMonthName": "October",
+    "currentMonthAbbr": "Oct",
+    "linkName": "leadwalnut-backlinking-dashboard-october2026",
+    "sourceFile": "2026-10 Backlink Performance Dashboard data.docx",
+    "generatedAt": "2026-11-11T05:01:58"
+  },
+  "kpis": {
+    "urlsTracked": 5,
+    "keywordsTracked": 15,
+    "planTotalBacklinks": 65,
+    "totalBacklinks": 45
+  },
+  "businessImpact": [
+    {
+      "title": "Target Keywords",
+      "rows": [
+        {
+          "keyword": "link building services",
+          "page": "https://www.leadwalnut.com/micro-service/high-authority-backlink-building",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "link building agency",
+          "page": "https://www.leadwalnut.com/micro-service/high-authority-backlink-building",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "backlink building service",
+          "page": "https://www.leadwalnut.com/micro-service/high-authority-backlink-building",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "b2b link building agency",
+          "page": "https://www.leadwalnut.com/micro-service/high-authority-backlink-building",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "enterprise link building",
+          "page": "https://www.leadwalnut.com/micro-service/high-authority-backlink-building",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "ai search optimization",
+          "page": "https://www.leadwalnut.com/services/b2b-saas-geo-optimization-services",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "generative engine optimization (GEO) services",
+          "page": "https://www.leadwalnut.com/services/b2b-saas-geo-optimization-services",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "llm optimization",
+          "page": "https://www.leadwalnut.com/services/b2b-saas-geo-optimization-services",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "llm optimization agency",
+          "page": "https://www.leadwalnut.com/services/b2b-saas-geo-optimization-services",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "content creation agency",
+          "page": "https://www.leadwalnut.com/services/content-at-scale",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "content creation services",
+          "page": "https://www.leadwalnut.com/services/content-at-scale",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "cro services",
+          "page": "https://www.leadwalnut.com/services/conversion-rate-optimization",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "conversion rate optimization agency",
+          "page": "https://www.leadwalnut.com/services/conversion-rate-optimization",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "b2b seo agency",
+          "page": "https://www.leadwalnut.com/services/seo-strategy-implementation",
+          "baseline": null,
+          "current": null
+        },
+        {
+          "keyword": "enterprise seo agency",
+          "page": "https://www.leadwalnut.com/services/seo-strategy-implementation",
+          "baseline": null,
+          "current": null
+        }
+      ],
+      "insight": ""
+    }
+  ],
+  "referringDomains": {
+    "data": [
+      {
+        "name": "DA 71-100",
+        "value": 10,
+        "color": "#0f3f2d"
+      },
+      {
+        "name": "DA 41-70",
+        "value": 33,
+        "color": "#29b554"
+      },
+      {
+        "name": "DA 25-40",
+        "value": 2,
+        "color": "#a7e3b9"
+      }
+    ],
+    "qualityStatement": "Approximately 96% of referring domains fall within the DA 41–100 range, reflecting a strong and credible backlink profile supported by a substantial number of high-quality, authoritative referring websites."
+  },
+  "monthlyBacklinkGrowth": [
+    {
+      "month": "Aug",
+      "backlinks": 13
+    },
+    {
+      "month": "Sep",
+      "backlinks": 28
+    },
+    {
+      "month": "Oct",
+      "backlinks": 4
+    }
+  ],
+  "keywordRanking": {
+    "topFive": {
+      "baseline": 0,
+      "current": 0,
+      "keywords": []
+    },
+    "firstPage": {
+      "baseline": 0,
+      "current": 0,
+      "baselineKeywords": [],
+      "currentKeywords": []
+    }
+  },
+  "performanceSummary": [
+    {
+      "url": "https://www.leadwalnut.com/micro-service/high-authority-backlink-building",
+      "paChange": 0,
+      "bestKeywordMove": null,
+      "worstKeywordMove": null,
+      "overallStatus": "Stable",
+      "backlinks": [
+        7,
+        14,
+        15
+      ],
+      "keywordsTracked": 5,
+      "keywordsRanking": 0
+    },
+    {
+      "url": "https://www.leadwalnut.com/services/b2b-saas-geo-optimization-services",
+      "paChange": 0,
+      "bestKeywordMove": null,
+      "worstKeywordMove": null,
+      "overallStatus": "Stable",
+      "backlinks": [
+        4,
+        14,
+        14
+      ],
+      "keywordsTracked": 4,
+      "keywordsRanking": 0
+    },
+    {
+      "url": "https://www.leadwalnut.com/services/content-at-scale",
+      "paChange": 0,
+      "bestKeywordMove": null,
+      "worstKeywordMove": null,
+      "overallStatus": "Stable",
+      "backlinks": [
+        0,
+        4,
+        4
+      ],
+      "keywordsTracked": 2,
+      "keywordsRanking": 0
+    },
+    {
+      "url": "https://www.leadwalnut.com/services/conversion-rate-optimization",
+      "paChange": 0,
+      "bestKeywordMove": null,
+      "worstKeywordMove": null,
+      "overallStatus": "Stable",
+      "backlinks": [
+        0,
+        3,
+        6
+      ],
+      "keywordsTracked": 2,
+      "keywordsRanking": 0
+    },
+    {
+      "url": "https://www.leadwalnut.com/services/seo-strategy-implementation",
+      "paChange": 0,
+      "bestKeywordMove": null,
+      "worstKeywordMove": null,
+      "overallStatus": "Stable",
+      "backlinks": [
+        2,
+        6,
+        6
+      ],
+      "keywordsTracked": 2,
+      "keywordsRanking": 0
+    }
+  ],
+  "summaryMonths": [
+    "Aug'26",
+    "Sep'26",
+    "Oct'26"
+  ],
+  "acquisitionSheetUrl": "https://docs.google.com/spreadsheets/d/1VqWaElFAn3w6JChTBzW6fbRmIju4IPaHv8aQ_GiMGlY/edit?gid=0#gid=0",
+  "keyFindings": [
+    {
+      "description": "Achieved 45 of 65 planned backlinks (69.2%)."
+    },
+    {
+      "description": "43 of 45 backlinks come from domains with DA 41–100."
+    }
+  ],
+  "highlights": [],
+  "llmHighlights": []
+}

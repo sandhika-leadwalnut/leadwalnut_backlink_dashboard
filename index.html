@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LeadWalnut Backlink Performance Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      // LeadWalnut brand: green instead of the blue/purple used in the client dashboards
+      const lwGreen = { 50: "#effaf2", 100: "#d6f2df", 200: "#a7e3b9", 300: "#74d18f", 400: "#45c06b", 500: "#29b554", 600: "#219647", 700: "#1b7a3b", 800: "#155e2f", 900: "#0f3f2d" };
+      tailwind.config = { theme: { extend: { colors: { blue: lwGreen, indigo: lwGreen, purple: lwGreen, sky: lwGreen, teal: lwGreen } } } };
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.1.1/",
+    "react": "https://esm.sh/react@^19.1.1",
+    "recharts": "https://esm.sh/recharts@^3.1.2",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.1/",
+    "@google/genai": "https://esm.sh/@google/genai@^1.12.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-white">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
